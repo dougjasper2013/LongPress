@@ -11,7 +11,7 @@ import SwiftUI
 struct LongPressApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LongPressView()
         }
     }
 }
